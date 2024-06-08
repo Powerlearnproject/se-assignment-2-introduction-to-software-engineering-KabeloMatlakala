@@ -28,5 +28,39 @@ The SDLC is a structured process that defines the steps involved in developing s
 -	**Maintenance**: Updating, fixing bugs, and enhancing the software over its lifetime. 	<br> 
 
 #### Agile vs. Waterfall Models
-                                                                                                                                                      
+**Agile**: An iterative and incremental approach where teams work in short cycles, constantly adapting to changing requirements.
+Agile is preferred when:
+⦁	Requirements are constantly evolving.
+⦁	User feedback is critical.
+⦁	Time-to-market is a priority.
+
+⦁	Iterative and incremental, focusing on flexibility and rapid delivery.
+⦁	Requirements and design evolve throughout the development process.
+⦁	Close collaboration between developers, testers, and customers.
+⦁	Suitable for complex and rapidly changing projects.
+
+
+**Waterfall**: A sequential approach where each phase is completed before the next one begins.
+Waterfall is preferred when:
+⦁	Requirements are well-defined and stable.
+⦁	A structured process is desired.
+
+⦁	Linear and sequential, with clear phases that are completed one after another.
+⦁	Requirements are fixed early in the process and rarely change.
+⦁	Minimum customer involvement during development.
+⦁	Suitable for stable projects with well-defined requirements.
+                                                                                                                                          ***
+### Requirements Engineering
+**Requirements engineering** is the process of gathering, analyzing, and documenting the needs and expectations of stakeholders in a software system. It includes activities such as:
+
+Stakeholder analysis, Requirements elicitation, Requirements specification
+Requirements validation
+
+Requirements Engineering
+Requirements engineering involves gathering, analyzing, documenting, and managing user requirements. It ensures that the software system aligns with its intended objectives and meets the needs of stakeholders.
+
+Requirements Engineering 
+Requirements engineering is the process of gathering, analyzing, documenting, and validating user needs and system specifications. It ensures that the software meets user expectations and aligns with business goals.
+
+                                                                                                                                          ***
 
